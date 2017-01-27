@@ -1,0 +1,11 @@
+{
+  "name": "stringify-tag",
+  "version": "1.0.0",
+  "description": "Template literal tag that properly stringifies all inputs",
+  "main": "index.js",
+  "repository": {
+    "url": "https://www.github.com/garbles/stringify"
+  },
+  "author": "Gabe Scholz",
+  "license": "MIT"
+}
